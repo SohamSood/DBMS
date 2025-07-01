@@ -1,0 +1,23 @@
+What is data?
+What is file system/
+Jay , 100 hay@100gmail.com
+
+Types of databases
+1) RDBMS
+2) No SQL
+3)What is Data?
+What is file system?
+Jay, 100, jay@gmail.com
+
+Types of database,
+1. RDBMS
+2. NOSQL
+3. In-Memory database
+4. Cloud Database
+
+Data Modelling
+Relational Databse
+
+code: 
+create database db;
+show databases;
